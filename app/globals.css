@@ -286,7 +286,7 @@ main {
 }
 
 .owl-carousel .owl-stage-outer {
-	overflow: visible;
+	overflow: visible !important;
 }
 
 .owl-dots {
